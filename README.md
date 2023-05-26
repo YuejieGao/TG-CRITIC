@@ -53,8 +53,8 @@ AUC of Precision-Recall Curve
 | [Kuaishou](https://ieeexplore.ieee.org/abstract/document/8682665/) | 0.683  | 0.850                  | 0.858             | 0.688                | 0.497           |
 | [NUS20](https://ieeexplore.ieee.org/abstract/document/9306350/)    | 0.763  | 0.850                  | 0.930             | 0.688                | 0.552           |
 | [NUS21](https://ieeexplore.ieee.org/abstract/document/9689271)     | 0.784  | 0.850                  | 0.925             | 0.729                | 0.548           |
-| TG-Critic-1S                                                    | 0.798  | 0.800                  | 0.927             | 0.729                | 0.671           |
-| TG-Critic-2S                                                    | 0.823  | 0.950                  | 0.933             | 0.771                | 0.631           |
+| TG-Critic-1S                                                    | 0.798  | 0.800                  | 0.927             | 0.729                | **0.671**       |
+| TG-Critic-2S                                                    | **0.823**  | **0.950**                  | **0.933**             | **0.771**                | 0.631           |
 
 ## Citation
 
