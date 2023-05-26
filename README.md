@@ -3,11 +3,12 @@ Created by: Yuejie Gao
 
 Affiliation: NetEase Cloud Music, China
 
-Last edited on: 26th Oct 2022
+Last edited on: 26th May 2023
 
 Last edited by: Yuejie Gao
 
 Partial data of paper submitted to ICASSP2023: [TG-CRITIC: A TIMBRE-GUIDED MODEL FOR REFERENCE-INDEPENDENT SINGING EVALUATION](https://arxiv.org/abs/2305.09127)
+![Image text](https://raw.github.com/YuejieGao/repositpry/master/TG-CRITIC/TG-CRITIC POSTER.jpg)
 
 ## Contents
 This consists of the following (all used for the paper above):
